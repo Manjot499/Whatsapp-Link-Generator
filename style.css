@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(160, 235, 170);
+    margin:5px;
+    padding:0;
+}
+
+header{
+    color:rgb(78, 165, 90);
+    background-color:rgb(183, 245, 180);
+    margin:0x;
+    padding:10px;
+}
+
+#numInput{
+    margin:20px;
+    background-color:rgb(206, 241, 206);
+    color:rgb(67, 168, 101);
+}
+
+#generatebtn{
+    background-color:antiquewhite;
+}
+
+button{
+    background-color:antiquewhite;
+}
